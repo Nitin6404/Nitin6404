@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nitin a Full Stack Dev & Open Source Contributor</h1>
 
 - 🔭 I’m currently working on [Trakiz](https://trakiz.tech/)
-- 🤝 I’m looking for help with [Composiohq]([https://github.com/Nitin6404/Paytm](https://composio.dev/))
+- 🤝 I’m looking for help with [Composiohq](https://composio.dev/)
 - 📫 How to reach me **nc1575612@gmail.com**
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/Nitin6404?tab=repositories)**
 
@@ -31,13 +31,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin6404&hide_progress=true&theme=tokyonight" alt=Nitin6404 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitin6404&show_icons=true&locale=en&theme=" alt="Nitin6404" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin6404&theme=" alt="Nitin6404" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
