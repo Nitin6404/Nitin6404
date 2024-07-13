@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Nitin a Full Stack Dev & Open Source Contributor</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nitin6404&theme=" alt="Nitin6404" /></a> </p>
-
 - 🔭 I’m currently working on [Trakiz](https://trakiz.tech/)
 - 🤝 I’m looking for help with [Composiohq]([https://github.com/Nitin6404/Paytm](https://composio.dev/))
 - 📫 How to reach me **nc1575612@gmail.com**
